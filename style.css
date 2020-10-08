@@ -1,0 +1,35 @@
+.bg-light{
+    background-color: #fff !important;
+    color: black !important;
+}
+.navbar{
+    font-size: 15px;
+    
+}
+.Hover:hover{
+    background-color: #ccc;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.btn{
+    color: black;
+    background-color: #f1f1f1;
+}
+.btn:hover{
+    background-color: rgba(128, 128, 128, 0.5);
+}
+.color-font{
+    color: #607D8B;
+}
+.border{
+    border: none;
+}
+.bg-footer{
+    background-color: rgb(233, 233, 233);
+}
+.form-control{
+    border: none !important;
+    border-bottom: 1px solid #a8b8c0 !important;
+    border-radius: 0 !important;
+}
