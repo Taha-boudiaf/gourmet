@@ -22,9 +22,7 @@ body{
 .color-font{
     color: #607D8B;
 }
-.border{
-    border: none;
-}
+
 .bg-footer{
     background-color: rgb(233, 233, 233);
 }
@@ -32,4 +30,11 @@ body{
     border: none !important;
     border-bottom: 1px solid #a8b8c0 !important;
     border-radius: 0 !important;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
+.opa{
+    opacity: 0.8;
 }
